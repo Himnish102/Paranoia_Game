@@ -13,5 +13,5 @@ Languages/Skills: __C#, 3DS Max__ and Hosted on: __Unity__
 ## Google Drive Game Links
 * __C# CodeBase (zipped)__: https://drive.google.com/drive/folders/1qfFfLtTIO9TRuy7Oj8K__oAY-FDl9a9x?usp=drive_link
 * __3ds Max File__: https://drive.google.com/drive/folders/18dO8xqYJlyoKfLA6xwbExZce4cTQzObN?usp=drive_link
-* __2D Shaders__: https://drive.google.com/drive/folders/11wYa6jRclT7t-2jkULyEpREoX3pV3N0S?usp=drive_link
+* __2D Shaders (zipped)__: https://drive.google.com/drive/folders/11wYa6jRclT7t-2jkULyEpREoX3pV3N0S?usp=drive_link
 * __Concept Details__: https://drive.google.com/drive/folders/1hqedVTirTe2KeaR8ruIL8x9iRJOviGAi?usp=drive_link
