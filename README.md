@@ -6,5 +6,5 @@ Folder consists of:
 - A prototype of a building used as 'landscape' in the game using 3DS Max
 - The game hosted on Unity 
 
-Languages/Skills: C#, 3DS Max
-Hosted on: Unity
+Languages/Skills: __C#, 3DS Max__
+Hosted on: __Unity__
